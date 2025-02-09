@@ -1,0 +1,2 @@
+nombre = "Leonardo"
+print (nombre)
